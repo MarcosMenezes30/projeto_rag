@@ -1,0 +1,3 @@
+Visão computacional é a área da inteligência artificial dedicada à interpretação de imagens e vídeos.
+Tarefas comuns incluem classificação de imagens, detecção de objetos, segmentação e reconhecimento facial.
+Em aplicações industriais, visão computacional pode ser usada para inspeção de qualidade, navegação robótica e automação.

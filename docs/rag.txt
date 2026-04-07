@@ -1,0 +1,5 @@
+RAG significa Retrieval-Augmented Generation.
+Em um sistema RAG, documentos são divididos em trechos menores, transformados em embeddings e armazenados em uma base vetorial.
+Quando o usuário faz uma pergunta, o sistema recupera os trechos mais relevantes e usa esse contexto para montar a resposta.
+FAISS é uma biblioteca usada para busca vetorial eficiente.
+Embeddings são representações numéricas de textos que preservam similaridade semântica.

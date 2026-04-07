@@ -1,0 +1,3 @@
+Inteligência artificial é um campo da computação voltado ao desenvolvimento de sistemas capazes de executar tarefas que normalmente exigiriam inteligência humana, como percepção, linguagem e tomada de decisão.
+Machine Learning é uma subárea da IA em que os modelos aprendem padrões a partir de dados.
+Deep Learning utiliza redes neurais profundas para resolver problemas complexos.
